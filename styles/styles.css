@@ -1,0 +1,64 @@
+
+
+body 
+{
+    background-color: #000000;
+}
+
+#calculadora 
+{
+    width: 213px;
+    margin: 200px auto;
+    background: #2F2F2F;
+    border: 3px solid #000;
+    border-radius: 15px;
+    padding: 0px 15px 15px 15px;    
+}
+
+#header 
+{
+    max-width: 212px;
+}
+
+#tela 
+{
+    max-width: 212px;
+    height: 70px;
+    background: rgb(20, 152, 240);
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding: 5px 0 0 10px;
+}
+
+#botoes 
+{
+    grid: 30px;
+}
+
+button 
+{
+    width: 50px;
+    height: 70px;
+    border-radius: 5px;
+    border: none;
+    background: rgb(23, 2, 99);
+    margin-top: 3px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #092fd8f1;
+}
+
+.botaoAcao 
+{
+    color: #ff7b00;
+    background: rgb(38, 12, 133);
+}
+
+.igual 
+{
+    color: rgb(4, 184, 255);
+    background: #092fd8f1;
+}
