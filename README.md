@@ -14,6 +14,6 @@ Criei esta calculadora para por em prática o conhecimento que estou adquirindo 
 
 *uso de estruturas condicionais simples;
 
-*uso de operadores lógicos.*
+*uso de operadores lógicos.
 
 Enfim, este é apenas um código simples, para exercitar a lógica de programação com a syntax do Javascript.
